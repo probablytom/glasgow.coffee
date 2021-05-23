@@ -1,0 +1,13 @@
+markdown: kramdown
+highlighter: rouge
+
+url: https://glasgow.coffee
+baseurl: /
+title: Glasgow.coffee
+
+
+author:
+    name: Tom Wallis
+    url: http://tom.coffee
+
+version: 20210523a

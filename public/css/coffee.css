@@ -1,0 +1,44 @@
+html {
+    font-size: 18pt;
+    font-family: 'valkyrie', Georgia, serif;
+}
+
+.content-container {
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-family: 'advocate_55', 'Gill Sans', sans-serif;
+    color: #444;
+    padding-top: 0.6rem;
+    padding-bottom: 1.4rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+    font-family: 'advocate_55', 'Gill Sans, sans-serif';
+    color: #333;
+    padding-top: 0.6rem;
+    padding-bottom: 1rem;
+}
+
+h3 {
+    font-size: 1.1rem;
+    font-family: 'advocate_55', 'Gill Sans, sans-serif';
+    color: #222;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+}
+
+p {
+    padding-bottom: 0.2rem;
+}
+
+.sans {
+    font-family: 'concourse_3';
+}
+
+.code {
+    font-family: 'triplicate', Menlo, Consolas, monospace;
+}

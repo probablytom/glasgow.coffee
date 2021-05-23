@@ -1,0 +1,146 @@
+/* Butterick Fonts */
+
+@font-face {
+    font-family: triplicate;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-display: auto;
+    src: url('/public/mbfonts/Triplicate/triplicate_ot_a_regular.woff2') format('woff2');
+    }
+    
+    @font-face {
+    font-family: triplicate;
+    font-style: italic;
+    font-weight: normal;
+    font-stretch: normal;
+    font-display: auto;
+    src: url('/public/mbfonts/Triplicate/triplicate_ot_a_italic.woff2') format('woff2');
+    }
+    
+    @font-face {
+    font-family: triplicate;
+    font-style: normal;
+    font-weight: bold;
+    font-stretch: normal;
+    font-display: auto;
+    src: url('/public/mbfonts/Triplicate/triplicate_ot_a_bold.woff2') format('woff2');
+    }
+    
+    @font-face {
+    font-family: triplicate;
+    font-style: italic;
+    font-weight: bold;
+    font-stretch: normal;
+    font-display: auto;
+    src: url('/public/mbfonts/Triplicate/triplicate_ot_a_bold_italic.woff2') format('woff2');
+    }
+    
+@font-face {
+font-family: valkyrie;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Valkyrie/valkyrie_ot_a_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: valkyrie;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Valkyrie/valkyrie_ot_a_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: valkyrie;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Valkyrie/valkyrie_ot_a_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: valkyrie;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Valkyrie/valkyrie_ot_a_bold_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Concourse/concourse_ot_3_book.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Concourse/concourse_ot_3_book_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Concourse/concourse_ot_3_book.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Concourse/concourse_ot_3_book_italic.woff2') format('woff2');
+}
+
+
+@font-face {
+font-family: advocate_55;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Advocate/advocate_ot_55_wide_med.woff2') format('woff2');
+}
+
+@font-face {
+font-family: advocate_55;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Advocate/advocate_ot_55_wide_med.woff2') format('woff2');
+}
+
+@font-face {
+font-family: advocate_55;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Advocate/advocate_ot_55_wide_med.woff2') format('woff2');
+}
+
+@font-face {
+font-family: advocate_55;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/mbfonts/Advocate/advocate_ot_55_wide_med.woff2') format('woff2');
+}
