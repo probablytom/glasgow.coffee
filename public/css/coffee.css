@@ -4,7 +4,15 @@ html {
 }
 
 .content-container {
-    padding: 1rem;
+    min-width: 40rem;
+    padding-left: 15%;
+    padding-top: 5rem;
+}
+
+@media (max-width: 32rem) {
+    .content-container {
+        padding-left: 0%;
+    }
 }
 
 h1 {
