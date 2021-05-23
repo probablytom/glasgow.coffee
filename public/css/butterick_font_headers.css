@@ -114,7 +114,7 @@ font-style: normal;
 font-weight: normal;
 font-stretch: normal;
 font-display: auto;
-src: url('/public/mbfonts/Concourse/concourse_ot_4_book.woff2') format('woff2');
+src: url('/public/mbfonts/Concourse/concourse_ot_4_medium.woff2') format('woff2');
 }
 
 @font-face {
@@ -123,7 +123,7 @@ font-style: italic;
 font-weight: normal;
 font-stretch: normal;
 font-display: auto;
-src: url('/public/mbfonts/Concourse/concourse_ot_4_book_italic.woff2') format('woff2');
+src: url('/public/mbfonts/Concourse/concourse_ot_4_medium_italic.woff2') format('woff2');
 }
 
 @font-face {
@@ -132,7 +132,7 @@ font-style: normal;
 font-weight: bold;
 font-stretch: normal;
 font-display: auto;
-src: url('/public/mbfonts/Concourse/concourse_ot_4_book.woff2') format('woff2');
+src: url('/public/mbfonts/Concourse/concourse_ot_4_medium.woff2') format('woff2');
 }
 
 @font-face {
@@ -141,7 +141,7 @@ font-style: italic;
 font-weight: bold;
 font-stretch: normal;
 font-display: auto;
-src: url('/public/mbfonts/Concourse/concourse_ot_4_book_italic.woff2') format('woff2');
+src: url('/public/mbfonts/Concourse/concourse_ot_4_medium_italic.woff2') format('woff2');
 }
 
 
