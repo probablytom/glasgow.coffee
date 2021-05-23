@@ -1,6 +1,6 @@
 html {
     font-size: 18pt;
-    font-family: 'valkyrie', Georgia, serif;
+    font-family: 'concourse_4', Georgia, serif;
 }
 
 .content-container {
@@ -35,8 +35,16 @@ p {
     padding-bottom: 0.2rem;
 }
 
-.sans {
+.heavier-sans {
+    font-family: 'concourse_4';
+}
+
+.lighter-sans {
     font-family: 'concourse_3';
+}
+
+.serif {
+    font-family: 'valkyrie';
 }
 
 .code {
